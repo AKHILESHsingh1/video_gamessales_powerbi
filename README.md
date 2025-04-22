@@ -1,56 +1,44 @@
-🎮 Video Games Dashboard - Power BI Project
-This project presents a comprehensive Power BI dashboard built using a dataset of over 11,000 video games. The goal is to analyze game releases, sales, genres, platforms, and publishers across decades.
+# 🎮 Video Games Dashboard - Power BI Project
 
-📊 Dashboard Overview
-The dashboard includes multiple insightful visuals:
+This project showcases an interactive Power BI dashboard built to analyze and visualize trends in the video game industry using a dataset of over 11,000 games.
 
-Games Released by 5-Year Intervals (e.g., 2000–2004, 2005–2009)
+## 📊 Dashboard Highlights
 
-Top Platforms by Number of Games
+- 📅 **Games Released by 5-Year Intervals**
+- 🎮 **Top Platforms by Number of Games**
+- 🏢 **Top Publishers by Game Count and Global Sales**
+- 🌍 **Regional Sales Analysis** (NA, JP, Other)
+- 📚 **Genre Distribution Across Decades**
+- 🏆 **Top-Selling Titles** (e.g., Wii Sports)
 
-Leading Publishers by Game Count and Sales
+## 🧠 Key Insights
 
-Global Sales Breakdown (NA, JP, Other)
+- Most games were released between **2005–2014**.
+- **Nintendo** leads in both game count and global sales.
+- **Action** and **Sports** dominate as the most popular genres.
+- A diverse set of platforms supported game publishing over the years.
 
-Genre-wise Game Distribution
+## 🗂️ Project Files
 
-Top-Selling Games (e.g., Wii Sports)
+- `video_games_power_bi.pdf` – Exported Power BI dashboard (PDF format)
+- `Video_games.xlsx` – Raw data file used for analysis
 
-🔧 Key Features
-Interactive visuals built with Power BI Desktop
+## 🛠️ Tools Used
 
-Clean 5-year binning for release year trends
+- Power BI Desktop
+- Microsoft Excel (for data cleanup)
 
-Sales analysis by region and publisher
+## 🚀 How to Use
 
-Genre popularity breakdown
+1. Clone this repository.
+2. (Optional) Open the `.pbix` Power BI file (if available).
+3. Use the provided `Video_games.xlsx` as your data source.
+4. Interact with the dashboard to explore trends and insights.
 
-Insight into historical growth in video gaming
+## 📌 Potential Improvements
 
-🧠 Insights Gained
-Most games were released between 2005–2009 and 2010–2014
+- Add year-over-year sales trends.
+- Integrate user/critic scores for qualitative analysis.
+- Enrich dataset with release regions and platforms over time.
 
-Nintendo dominated both in sales and number of games
 
-Action and Sports are the most popular genres
-
-Strong game platform diversity across the years
-
-📁 File Contents
-video_games_power_bi.pdf — exported version of the Power BI dashboard
-
-Video_games.xlsx — dataset used for building the dashboard
-
-📎 Tools Used
-Power BI Desktop
-
-Excel for data cleaning and preparation
-
-🚀 How to Use
-Download the Power BI .pbix file (if available)
-
-Open with Power BI Desktop
-
-Connect or refresh with the Video_games.xlsx data file
-
-Interact with the visuals and explore insights
